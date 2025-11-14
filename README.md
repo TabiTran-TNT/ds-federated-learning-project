@@ -1,6 +1,6 @@
 # Federated Learning Demo in Python using Socket Programming
 
-This is a demo project for applying the concepts of federated learning (FL) in Python using socket programming by building and training machine learning (ML) models using FL. The ML model is trained using [PyGAD](https://pygad.readthedocs.io) which trains ML models using the genetic algorithm (GA). The problem used to demonstrate how things work is XOR.
+This is a repository of the assignment from the course Distributed Learning my friend and I attend. The work is forked a demo project for applying the concepts of federated learning (FL) in Python using socket programming by building and training machine learning (ML) models using FL. The ML model is trained using [PyGAD](https://pygad.readthedocs.io) which trains ML models using the genetic algorithm (GA). The problem used to demonstrate how things work is XOR.
 
 The project builds GUI for the server and the client using [Kivy](https://kivy.org). This has a number of benefits.
 
@@ -79,63 +79,3 @@ Follow these steps to run the client:
 
 ![Fig03](https://user-images.githubusercontent.com/16560492/86206222-292e8c80-bb6c-11ea-9311-1ef4bb467188.jpg)
 
-# Download APKs
-
-The links for the APK files of both the server and the client Android apps are given below:
-
-- [Server](https://github.com/ahmedfgad/FederatedLearning/releases/download/0.1/FL-server-android.apk): https://github.com/ahmedfgad/FederatedLearning/releases/download/0.1/FL-server-android.apk
-- [Client](https://github.com/ahmedfgad/FederatedLearning/releases/download/0.1/FL-client-android.apk): https://github.com/ahmedfgad/FederatedLearning/releases/download/0.1/FL-client-android.apk
-
-# For More Information
-
-There are a number of resources to get started with federated learning and Kivy.
-
-## Tutorial: [Introduction to Federated Learning](https://heartbeat.fritz.ai/introduction-to-federated-learning-40eb122754a2)
-
-This tutorial describes the pipeline of training a machine learning model using federated learning.
-
-[![](https://miro.medium.com/max/3240/1*6gRmlrDPp5J42HR3QWLYew.jpeg)](https://heartbeat.fritz.ai/introduction-to-federated-learning-40eb122754a2)
-
-## Tutorial: [Breaking Privacy in Federated Learning](https://heartbeat.fritz.ai/breaking-privacy-in-federated-learning-77fa08ccac9a)
-
-Even that federated learning does not disclose the private user data, there are some cases in which the privacy of federated learning can be broken.
-
-[![](https://miro.medium.com/max/3240/1*nZQg-E4a1wOvIH2AmkUUsQ.jpeg)](https://heartbeat.fritz.ai/breaking-privacy-in-federated-learning-77fa08ccac9a)
-
-## Tutorial: [Python for Android: Start Building Kivy Cross-Platform Applications](https://www.linkedin.com/pulse/python-android-start-building-kivy-cross-platform-applications-gad)
-
-This tutorial titled [Python for Android: Start Building Kivy Cross-Platform Applications](https://www.linkedin.com/pulse/python-android-start-building-kivy-cross-platform-applications-gad) covers the steps for creating an Android app out of the Kivy app.
-
-[![Kivy-Tutorial](https://user-images.githubusercontent.com/16560492/86205332-dfdd3d80-bb69-11ea-91fb-cb0143cb1e5e.png)](https://www.linkedin.com/pulse/python-android-start-building-kivy-cross-platform-applications-gad)
-
-## Book: [Building Android Apps in Python Using Kivy with Android Studio](https://www.amazon.com/Building-Android-Python-Using-Studio/dp/1484250303)
-
-To get started with Kivy app development and how to built Android apps out of the Kivy app, check the book titled [Building Android Apps in Python Using Kivy with Android Studio](https://www.amazon.com/Building-Android-Python-Using-Studio/dp/1484250303)
-
-[![kivy-book](https://user-images.githubusercontent.com/16560492/86205093-575e9d00-bb69-11ea-82f7-23fef487ce3c.jpg)](https://www.amazon.com/Building-Android-Python-Using-Studio/dp/1484250303)
-
-# Citing PyGAD - Bibtex Formatted Citation
-
-If you used PyGAD, please consider adding a citation to the following paper about PyGAD:
-
-```
-@misc{gad2021pygad,
-      title={PyGAD: An Intuitive Genetic Algorithm Python Library}, 
-      author={Ahmed Fawzy Gad},
-      year={2021},
-      eprint={2106.06158},
-      archivePrefix={arXiv},
-      primaryClass={cs.NE}
-}
-```
-
-# Contact Us
-
-- E-mail: [ahmed.f.gad@gmail.com](mailto:ahmed.f.gad@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/ahmedfgad)
-- [Amazon Author Page](https://amazon.com/author/ahmedgad)
-- [Heartbeat](https://heartbeat.fritz.ai/@ahmedfgad)
-- [Paperspace](https://blog.paperspace.com/author/ahmed)
-- [KDnuggets](https://kdnuggets.com/author/ahmed-gad)
-- [TowardsDataScience](https://towardsdatascience.com/@ahmedfgad)
-- [GitHub](https://github.com/ahmedfgad)
